@@ -399,3 +399,6 @@ FodyWeavers.xsd
 
 # ImGui initialization file
 ImGui-Starter/imgui.ini
+
+# VS Code Settings
+.vscode/settings.json
